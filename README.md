@@ -1,4 +1,4 @@
-# Coursework & Mini-Project for my Y3 theoretical physics machine learning course
+# Y3 theoretical physics machine learning course
 
 I have received the grades for **Coursework A–E** and my **Mini-Project**. The marks are:
 
